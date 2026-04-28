@@ -24,7 +24,7 @@ A user-friendly command-less swap management utility for Linux systems. Easily m
 Clone the repository to your system:
 
 ```bash
-git clone git@github.com:Jdhdx/swap-manager-tool.git
+git clone https://github.com/MichaelCode-tech/swap-manager-tool.git
 cd swap-manager-tool
 ```
 
