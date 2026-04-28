@@ -1,5 +1,5 @@
 #!/bin/bash
-
+#tool made by MichaelCode-tech
 # --- Check for Root ---
 if [[ $EUID -ne 0 ]]; then
    echo "Error: This script must be run as root (use sudo)."
