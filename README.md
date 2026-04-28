@@ -117,10 +117,10 @@ Contributions, bug reports, and feature requests are welcome! Please feel free t
 
 ## 👤 Author
 
-**Jdhdx**
+**MichaelCode.tech**
 
-- GitHub: [@Jdhdx](https://github.com/Jdhdx)
-- Repository: [swap-manager-tool](https://github.com/Jdhdx/swap-manager-tool)
+- GitHub: [@MichaelCode-tech](https://github.com/MichaelCode-tech)
+- Repository: [swap-manager-tool](https://github.com/MichaelCode-tech/swap-manager-tool.git)
 
 ## 📞 Support
 
